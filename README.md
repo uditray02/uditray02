@@ -4,10 +4,10 @@ My name is Udit and I'm an Embedded Robotics Software Engineer interested in Dro
 
 - 🔭 Current — Building mission-grade drone systems at [IndoWings](www.indowings.com). **Focus**: avionics, sensor-to-control integration, autonomous strike/precision engagement systems etc..
 - 🌱 Recent — Developed vision-led autonomous kamikaze UAVs with on-board target detection and closed-loop guidance for precision terminal engagements.
-- 👯 I’m looking to collaborate on 
-- 🤔 I’m looking for help with ...
+
 - 💬 Ask me about the software integration of Drones!
-  - Technical / collaboration enquiries to: udit.rstr02@gmail.com
+  - Technical / collaboration enquiries to: 📫 udit.rstr02@gmail.com
+- ⚡ Fun fact: I debug drones faster than I cook Maggi....
 
 <!--
 **uditray02/uditray02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
