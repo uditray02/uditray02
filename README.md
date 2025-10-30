@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello everyone 👋
 
 My name is Udit and I'm an Embedded Robotics Software Engineer interested in Drone Technologies(UAVs), Manipulators(Industrial+BioMedical), AGVs, && AMRs 
 
