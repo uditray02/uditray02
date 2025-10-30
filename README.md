@@ -7,7 +7,7 @@ My name is Udit and I'm an Embedded Robotics Software Engineer interested in Dro
 
 - 💬 Ask me about the software integration of Drones!
   - Technical / collaboration enquiries to: 📫 udit.rstr02@gmail.com
- ⚡ Fun fact: I debug drones faster than I cook Maggi....
+- ⚡ Fun fact: I debug drones faster than I cook Maggi....
 
 <!--
 **uditray02/uditray02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
