@@ -7,7 +7,7 @@ My name is Udit and I'm an Embedded Robotics Software Engineer interested in Dro
 - 👯 I’m looking to collaborate on 
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about the software integration of Drones!
-  - Send me any kind of collaboration request to udit.rstr02@gmail.com
+  - Technical / collaboration enquiries to: udit.rstr02@gmail.com
 
 <!--
 **uditray02/uditray02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
