@@ -32,10 +32,10 @@ My name is Udit with 2+ years of experience && I'm an Embedded Robotics Software
   <a href="https://www.karthikeshrobotics.in">
     <img src="https://raw.githubusercontent.com/uditray02/uditray02/refs/heads/main/assets/logos/kkr_Logo.jpeg" width="80" alt="KKR Robotics"/>
   </a>
-  <a href="https://phntechnology.com">
+  <a href="https://www.soaron.co">
     <img src="https://www.phntechnology.com/assets/img/PHNLOG.jpg" width="80" alt="PHN Technology"/>
   </a>
-  <a href="https://phntechnology.com">
+  <a href="https://brightchamps.com/en-in">
     <img src="https://www.phntechnology.com/assets/img/PHNLOG.jpg" width="80" alt="PHN Technology"/>
   </a>
 </p>
