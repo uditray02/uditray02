@@ -10,6 +10,10 @@ My name is Udit and I'm an Embedded Robotics Software Engineer interested in Dro
 - ⚡ Fun fact: I debug drones faster than I cook Maggi....
 
 ![GitHub Grade](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=uditray02&theme=tokyonight)
+![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=uditray02&theme=tokyonight)
+![Repos per Lang](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=uditray02&theme=tokyonight)
+![Commits](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=uditray02&theme=tokyonight)
+
 
 
 <!--
