@@ -9,7 +9,7 @@ My name is Udit and I'm an Embedded Robotics Software Engineer interested in Dro
   - Technical / collaboration enquiries to: 📫 udit.rstr02@gmail.com
 - ⚡ Fun fact: I debug drones faster than I cook Maggi....
 
-- ![GitHub Grade](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=uditray02&theme=tokyonight)
+![GitHub Grade](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=uditray02&theme=tokyonight)
 
 
 <!--
