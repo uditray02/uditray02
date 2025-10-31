@@ -1,6 +1,6 @@
 ## Hello everyone 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=500&color=00C2FF&center=true&vCenter=true&width=435&lines=Embedded+Robotics+Engineer;ROS2+%7C+PX4+%7C+C%2B%2B+%7C+Python;Avionics+%7C+Autonomy+%7C+Perception)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=500&color=00C2FF&center=true&vCenter=true&width=435&lines=Embedded+Robotics+Software+Engineer;ROS2+%7C+QT+%7C+C%2B%2B+%7C+Python;Avionics+%7C+Autonomy+%7C+Perception)](https://git.io/typing-svg)
 
 My name is Udit with 2+ years of experience && I'm an Embedded Robotics Software Engineer interested in Drone Technologies(UAVs), Manipulators(Industrial+BioMedical), AGVs, && AMRs 
 
