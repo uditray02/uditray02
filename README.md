@@ -20,9 +20,10 @@ My name is Udit and I'm an Embedded Robotics Software Engineer interested in Dro
 ### 🏢 Organizations I Contribute To
 <p align="center">
   <a href="https://github.com/RnD-Indowings">
-    <img src="https://avatars.githubusercontent.com/u/ORG_ID?s=100" alt="Indowings Robotics" width="80"/>
+    <img src="https://avatars.githubusercontent.com/RnD-Indowings?s=100" width="80">
   </a>
 </p>
+
 
 
 <!--
