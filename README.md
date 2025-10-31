@@ -11,9 +11,9 @@ My name is Udit and I'm an Embedded Robotics Software Engineer interested in Dro
 
 ![GitHub Grade](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=uditray02&theme=tokyonight)
 ![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=uditray02&theme=tokyonight)
-![Repos per Lang](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=uditray02&theme=tokyonight)
+![Repos per Lang](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=uditray02&theme=gruvbox)
 ![Commits](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=uditray02&theme=tokyonight)
-![Snake animation](https://raw.githubusercontent.com/uditray02/uditray02/output/github-contribution-grid-snake.svg)
+
 
 
 
