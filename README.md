@@ -9,6 +9,8 @@ My name is Udit and I'm an Embedded Robotics Software Engineer interested in Dro
   - Technical / collaboration enquiries to: 📫 udit.rstr02@gmail.com
 - ⚡ Fun fact: I debug drones faster than I cook Maggi....
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=500&color=00C2FF&center=true&vCenter=true&width=435&lines=Embedded+Robotics+Engineer;ROS2+%7C+PX4+%7C+C%2B%2B+%7C+Python;Avionics+%7C+Autonomy+%7C+Perception)](https://git.io/typing-svg)
+
 ![GitHub Grade](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=uditray02&theme=tokyonight) ![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=uditray02&theme=tokyonight)
 ![Repos per Lang](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=uditray02&theme=2077)
 ![Commits](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=uditray02&theme=2077)
