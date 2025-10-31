@@ -30,7 +30,7 @@ My name is Udit with 2+ years of experience && I'm an Embedded Robotics Software
     <img src="https://www.phntechnology.com/assets/img/PHNLOGO.jpg" width="80" alt="PHN Technology"/>
   </a>
   <a href="https://www.karthikeshrobotics.in">
-    <img src="https://raw.githubusercontent.com/uditray02/uditray02/refs/heads/main/assets/logos/soaron_logo.jpeg" width="80" alt="KKR Robotics"/>
+    <img src="https://raw.githubusercontent.com/uditray02/uditray02/refs/heads/main/assets/logos/kkr_Logo.jpeg" width="80" alt="KKR Robotics"/>
   </a>
   <a href="https://phntechnology.com">
     <img src="https://www.phntechnology.com/assets/img/PHNLOGO.jpg" width="80" alt="PHN Technology"/>
