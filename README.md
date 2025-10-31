@@ -17,9 +17,12 @@ My name is Udit and I'm an Embedded Robotics Software Engineer interested in Dro
 ![Repos per Lang](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=uditray02&theme=2077)
 ![Commits](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=uditray02&theme=2077)
 
-
-
-
+### 🏢 Organizations I Contribute To
+<p align="center">
+  <a href="https://github.com/RnD-Indowings">
+    <img src="https://avatars.githubusercontent.com/u/ORG_ID?s=100" alt="Indowings Robotics" width="80"/>
+  </a>
+</p>
 
 
 <!--
